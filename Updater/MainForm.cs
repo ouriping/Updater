@@ -12,6 +12,9 @@ using System.IO;
 using System.Diagnostics;
 using System.Net;
 
+/// <summary>
+/// http://www.cnblogs.com/liubiaocai/archive/2011/07/18/2109183.html
+/// </summary>
 namespace Updater
 {
     public partial class MainForm : Form
